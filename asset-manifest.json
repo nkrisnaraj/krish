@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jathu/static/css/main.5bfba60b.css",
+    "main.js": "/jathu/static/js/main.838f64ef.js",
+    "static/js/453.8ab44547.chunk.js": "/jathu/static/js/453.8ab44547.chunk.js",
+    "index.html": "/jathu/index.html",
+    "main.5bfba60b.css.map": "/jathu/static/css/main.5bfba60b.css.map",
+    "main.838f64ef.js.map": "/jathu/static/js/main.838f64ef.js.map",
+    "453.8ab44547.chunk.js.map": "/jathu/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bfba60b.css",
+    "static/js/main.838f64ef.js"
+  ]
+}
